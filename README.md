@@ -1,4 +1,4 @@
-### KC-Modulo-de_DevOps
+### KC-Modulo-de-DevOps
 
 ## Plataforma de alojamiento
 
